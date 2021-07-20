@@ -19,7 +19,7 @@ Maintained by Maarten Westenberg (mw12554@hotmail.com)
 
 First of all: PLEASE READ THIS FILE AND [Documentation](http://things4u.github.io/Projects/SingleChannelGateway) 
 it should contain most of the information you need to get going.
-Unfortunately I do not have the time to follow up on all emails, and as most information including pin-outs 
+Unfortunately I do not have the time to follow up on all emails, and as most information including pinouts 
 etc. etc. are contained on these pages I hope you have the time to read them and post any remaining questions.
 
 I do have more than 10 Wemos D1 mini boards running, some I built myself, 
